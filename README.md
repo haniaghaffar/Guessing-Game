@@ -28,7 +28,8 @@ JavaScript for game logic, random number generation, and user interaction.
 To run the game locally:
 
 # Clone this repository:
-https://github.com/haniaghaffar/Guessing-Game/edit/main/README.md
+To run the app locally:
+https://github.com/haniaghaffar/Guessing-Game
 Open the index.html file in your web browser.
 
 # License
